@@ -1,0 +1,7 @@
+.logo {
+  position: absolute;
+  left: calc((100% - 200px) / 2);
+  display: block;
+  z-index: 2;
+  top: 10px;
+}
